@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rhavi
+- 👋 Hi, I’m crypsis
 - 👀 I’m interested in programming & technology
 - 🌱 I’m currently learning C#
 
